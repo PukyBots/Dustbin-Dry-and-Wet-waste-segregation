@@ -127,3 +127,32 @@ float getDistance() {
   if (duration == 0) return 0;
   return duration * 0.034 / 2;
 }
+
+
+
+
+
+🧪 **How It Works**
+
+The ultrasonic sensor continuously measures distance.
+
+When an obstacle is detected closer than 30 cm, the system waits 3 seconds.
+
+The soil moisture sensor checks the soil condition:
+
+Wet Soil (LOW) → Servo turns 0°, returns to 90°.
+
+Dry Soil (HIGH) → Servo turns 180°, returns to 90°.
+
+System prints all results to the Serial Monitor.
+
+
+📄 License
+
+This project is open-source under the MIT License.
+You are free to modify and use it for educational or personal projects.
+
+👨‍💻 Author
+
+Pulkit Garg
+🔗 GitHub Profile
