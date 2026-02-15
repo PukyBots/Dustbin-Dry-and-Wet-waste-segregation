@@ -148,13 +148,13 @@ System prints all results to the Serial Monitor.
 
 ---
 
-📄 License
+## 📄 License
 
 This project is open-source under the MIT License.
 You are free to modify and use it for educational or personal projects.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Pulkit Garg
