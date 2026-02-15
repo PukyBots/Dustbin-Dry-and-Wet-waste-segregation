@@ -132,7 +132,7 @@ float getDistance() {
 ---
 
 
-🧪 **How It Works**
+## 🧪 **How It Works**
 
 The ultrasonic sensor continuously measures distance.
 
